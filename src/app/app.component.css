@@ -1,0 +1,6 @@
+.borderstyle{
+    border: 1px solid rgb(146, 146, 151); 
+    padding: 10px; 
+    margin: 5px;
+    border-radius: 5px;
+}
